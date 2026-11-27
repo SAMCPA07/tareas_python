@@ -1,4 +1,9 @@
-import datetime # se importa la librería datetime para poder mostrar la fecha y hora en el ticket
+# EQUIPO 
+# 1. CASANOVA PANTOJA JESUS SANTIAGO
+# 2. SALINAS MEZA EMANUELL
+# 3. May Arcos Josue Matias
+
+import datetime  #se importa la librería datetime para poder mostrar la fecha y hora en el ticket
 
 NIP = 1234 # se define el NIP correcto del usuario
 saldo_actual = 1000  # saldo inicial del usuario
